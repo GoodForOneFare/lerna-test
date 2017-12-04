@@ -1,2 +1,2 @@
-console.log(require('gfof-bar').value, new Date(), 'change2');
+console.log(require('gfof-bar').value, new Date(), 'change3');
 
