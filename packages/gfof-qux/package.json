@@ -1,9 +1,9 @@
 {
   "name": "gfof-qux",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "gfof-bar": "^0.0.5"
+    "gfof-bar": "^0.0.6"
   }
 }
